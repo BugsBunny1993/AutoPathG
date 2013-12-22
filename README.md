@@ -17,8 +17,12 @@ BFS for cocos2dx  By Kowalski QQ:547098469
 
 所以，根据自己实际情况来选择那一种算法。
 
+＝＝＝＝＝注意＝＝＝＝
+这个演示程序只能在MacOS-64bit上运行，其他平台， 得把代码里分辨率改为1136*640
+运行时放到cocos2dx的project目录下
 
-用法如下
+
+API用法如下
 
 导入头文件：
  #include AutoPathG.h
